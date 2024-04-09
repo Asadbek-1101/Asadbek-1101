@@ -20,7 +20,7 @@ I'm Asadbek Shahobiddinov, a 20 years old web developer from Uzbekistan :relaxed
 
 - 🌱 I’m currently learning **python , django , telegram bot, Ai**
 
-- 👨‍💻 All of my projects are available at [https://github.com/islombek-developer/islombek](https://github.com/islombek-developer/islombek)
+- 👨‍💻 All of my projects are available at [https://github.com/Asadbek-1101/Asadbek](https://github.com/Asadbek-1101/Asadbek)
 
 - 📫 How to reach me **asadbekshahobiddinov01@gmail.com**
 
@@ -32,11 +32,11 @@ I'm Asadbek Shahobiddinov, a 20 years old web developer from Uzbekistan :relaxed
 <h3 align="center">A passionate Backend developer from Uzbekistan</h3>
 <img align="right" alt = "Coding" width="400" src="https://i.pinimg.com/originals/35/03/91/350391377d06c9bdf833a53e96917890.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islombek-developer&label=Profile%20views&color=0e75b6&style=flat" alt="islombek-developer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadbek-1101&label=Profile%20views&color=0e75b6&style=flat" alt="Asadbek-1101" /> </p>
 
 - 🌱 I’m currently learning **python , django , telegram bot, Ai**
 
-- 👨‍💻 All of my projects are available at ("https://github.com/Asadshahuz")
+- 👨‍💻 All of my projects are available at ("https://github.com/Asadbek-1101")
 
 - 📫 How to reach me **asadbekshahobiddinov01@gmail.com**
 
